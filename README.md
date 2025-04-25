@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sanket</h1>
-<h3 align="center">A passionate fullstack developer from Nashik</h3>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=4500&pause=100&color=D9F786&width=435&lines=A+passionate+fullstack+developer+" alt="Typing SVG" /></a>
+
+
 
 - 🔭 I’m currently working on **AI powered code reviewer**
 - 🌱 I’m currently learning **DevOps**
